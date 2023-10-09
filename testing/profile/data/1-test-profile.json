@@ -1,0 +1,27 @@
+{
+    "profilePngName": "1testpic.png",
+    "first-name": "User",
+    "last-name": "Full Name",
+    "password": "St0rm2834!",
+    "username": "@username",
+    "occupationTagline": "Journalist",
+    "leaning": "left leaning",
+    "bioLabel": "USER'S BIO",
+    "bio": "Dedicated political journalist sparking informed conversations and inciting change through insightful analyses and fearless commentaries on social media.",
+    "political-party": "Green",
+    "followers": 135,
+    "following": 98, 
+    "participation": {
+        "debates": 14,
+        "petitions": 4,
+        "polls": 148,
+        "posts": 13
+    },
+    "contributionRating": {
+        "number": 14,
+        "text": "medium-high"
+    },
+    "badges": {
+        "badgePngName": "1testbadge.png"
+    }
+}

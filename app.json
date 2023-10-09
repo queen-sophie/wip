@@ -1,0 +1,43 @@
+{
+  "name": "meow",
+  "displayName": "meow",
+  "expo": {
+    "name": "meow",
+    "slug": "meow",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo-icons/RattleLogo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/home-placeholders/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "y"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logo-icons/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.app.meow"
+    },
+    "plugins": [
+      "@react-native-google-signin/google-signin"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "45407c2c-e701-4b7f-aee8-64ca5bc1b663"
+      }
+    },
+    "owner": "sophiektech1337"
+  },
+  "web": {
+    "favicon": "./assets/favicon.png"
+  }
+}
