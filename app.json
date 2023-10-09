@@ -1,9 +1,9 @@
 {
-  "name": "meow",
-  "displayName": "meow",
+  "name": "wip",
+  "displayName": "wip",
   "expo": {
-    "name": "meow",
-    "slug": "meow",
+    "name": "wip",
+    "slug": "wip",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/logo-icons/RattleLogo.png",
@@ -13,9 +13,7 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "y"
@@ -27,9 +25,7 @@
       },
       "package": "com.app.meow"
     },
-    "plugins": [
-      "@react-native-google-signin/google-signin"
-    ],
+    "plugins": ["@react-native-google-signin/google-signin"],
     "extra": {
       "eas": {
         "projectId": "45407c2c-e701-4b7f-aee8-64ca5bc1b663"
@@ -39,5 +35,11 @@
   },
   "web": {
     "favicon": "./assets/favicon.png"
+  },
+
+  "extra": {
+    "eas": {
+      "projectId": "c80826dd-da2a-467f-b1a1-e65ddf5d8357"
+    }
   }
 }
